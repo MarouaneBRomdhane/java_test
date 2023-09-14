@@ -1,0 +1,20 @@
+#container_name{
+    background-color: red;
+    border: solid 1px;
+    width: 400px;
+    height: 300px;
+    /* margin: 50%; */
+    margin-top: 25%;
+    margin-left: 37%;
+    margin-right: 25%;
+    margin-bottom: 25%;
+    padding: auto;
+    padding-left: 35%;
+}
+#para{
+    color: white;
+    margin-top: 35%;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
